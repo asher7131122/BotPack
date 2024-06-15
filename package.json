@@ -2,7 +2,7 @@
   "name": "botpack",
   "version": "1.7.6",
   "description": "A Simple BotPack for starting a Messenger chatbot.",
-  "main": "main.js",
+  "main": "index node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
